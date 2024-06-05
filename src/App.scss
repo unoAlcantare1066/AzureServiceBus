@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+}
+
+.Products {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.Order__discounted {
+  color: red;
+  font-weight: bold;
+}
